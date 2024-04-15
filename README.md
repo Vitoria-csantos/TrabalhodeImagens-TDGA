@@ -31,3 +31,11 @@
     <li>No design gráfico, a densidade de cores é usada como uma ferramenta que pode transmitir emoções, criar atmosferas e destacar elementos importantes da imagem;</li>
     <li>Nas áreas de fotografia e cinema, a densidade de cores é algo fundamental para a criação e o desenvolvimento das obras, sendo capazes de representar emoções e criar narrativas visuais. Por exemplo, filmes de terror normalmente tem uma paleta de cores fechada e escura, para passar uma seriedade para o assunto.</li>
 </ul>
+
+
+<h2>Fontes</h2>
+<ul>
+  <li>https://pt.wikipedia.org/wiki/Imagem_digital</li>
+  <li>https://dealercv.com.br/glossario/o-que-e-densidade-de-cores/</li>
+  <li>https://tecnoblog.net/responde/o-que-e-um-pixel/</li>
+</ul>
