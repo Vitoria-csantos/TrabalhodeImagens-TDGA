@@ -23,4 +23,11 @@
 
 
 <h2>Cores</h2>
-
+<h3>Densidade das cores</h3>
+<p>A densidade de cores é a quantidade de cores presentes em determinado lugar e é medido com base nos termos de intensidade e variedade de tonalidades.</p>
+<ul>
+    <li>As cores que possuem uma densidade alta podem gerar mais atenção do que cores com uma intensidade mais baixa;</li>
+    <li>A combinação das cores pode transmitir sentimentos;</li>
+    <li>No design gráfico, a densidade de cores é usada como uma ferramenta que pode transmitir emoções, criar atmosferas e destacar elementos importantes da imagem;</li>
+    <li>Nas áreas de fotografia e cinema, a densidade de cores é algo fundamental para a criação e o desenvolvimento das obras, sendo capazes de representar emoções e criar narrativas visuais. Por exemplo, filmes de terror normalmente tem uma paleta de cores fechada e escura, para passar uma seriedade para o assunto.</li>
+</ul>
